@@ -92,7 +92,6 @@ rubocop
 
 ## 👥 Author <a name="authors"></a>
 
-
 👤 **Riyana Abdi**
 
 - GitHub: [@githubhandle](https://github.com/ibtisam34)
@@ -118,7 +117,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 If you like this project and you find it helpful, please give this project a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -129,10 +127,8 @@ Project from Microverse Ruby, Databases & Interviewing Module.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 📝 License <a name="license"></a>
 
-
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/Ibtisam34/OOP-school-library/blob/decorator/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
