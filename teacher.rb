@@ -1,6 +1,3 @@
-# frozen_string_literal: true
-
-# Class documentation for Teacher
 class Teacher < Person
   attr_reader :specialization
 

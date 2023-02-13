@@ -1,6 +1,3 @@
-# frozen_string_literal: true
-
-# Class documentation for Student
 class Student < Person
   attr_reader :classroom
 
