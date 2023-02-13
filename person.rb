@@ -1,6 +1,3 @@
-# frozen_string_literal: true
-
-# Class documentation for Person
 class Person
   attr_accessor :id, :name, :age
 
@@ -14,8 +11,10 @@ class Person
   private
 
   def of_age?
-    age >= 18
-    enddef can_use_services?
+    @age >= 18 if @age
+  end
+
+  def can_use_services?
     of_age? || @parent_permission
   end
 end
