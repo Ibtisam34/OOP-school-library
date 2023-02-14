@@ -1,4 +1,5 @@
-require 'person'
+require './person'
+
 class Student < Person
   def initialize(name = 'Unknown', age = nil, parent_permission: true, classroom: nil)
     super(name, age, parent_permission: parent_permission)
@@ -15,3 +16,5 @@ class Student < Person
     classroom.students.push(self) unless classroom.students.include?(self)
   end
 end
+
+
