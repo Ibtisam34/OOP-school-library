@@ -1,13 +1,9 @@
-require_relative 'nameable'
-class Person < Nameable
-  attr_reader :name
+class Person
+  attr_accesor :name, :rentals
+
 
   def initialize(name)
-    super
     @name = name
-  end
-
-  def correct_name
-    @name
+    @rentals = []
   end
 end
