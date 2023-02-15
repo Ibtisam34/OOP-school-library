@@ -23,13 +23,13 @@ class Main
     when '2'
       app.list_people
     when '3'
-      app.create_person
+      app.create_teacher_student
     when '4'
       app.create_book
     when '5'
       app.create_rental
     when '6'
-      app.show_rentals
+      app.show_rental
     when '7'
       puts puts "Thank you for using this app!\n\n"
       break
