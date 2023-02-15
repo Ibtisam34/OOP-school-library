@@ -59,32 +59,40 @@ class App
     puts "Book created successfully\n\n"
   end
 
-  def create_teacher_student
-    print 'Do you want to create a student (1) or a teacher (2)? [Input the number]: '
+  def create_person
+    puts 'Do you want to create a student (1) or a teacher (2)? [Input the number]: '
     num = gets.chomp
     case num
     when '1'
-      print 'Age:'
-      age = gets.chomp
-      print 'Name:'
-      name = gets.chomp
-      print 'Parent permisssion [y/n]:'
-      permission = gets.chomp
-      student = Student.new(1, age, name, parent_permission: permission)
-      @student.push(student)
-      puts "Person created successfully\n\n"
+      create_student
     when '2'
-      print 'Age:'
-      age = gets.chomp
-      print 'Name:'
-      name = gets.chomp
-      print 'Specialization:'
-      specialz = gets.chomp
-      teacher = Teacher.new(age, specialz, name, parent_permission: true)
-      @teacher.push(teacher)
-      puts "Person created successfully\n\n"
+      create_teacher
     else
-      puts 'invalid'
+      puts 'Invalid option'
     end
+  end
+
+  def create_student
+    print 'Age:'
+    age = gets.chomp
+    print 'Name:'
+    name = gets.chomp
+    print 'Parent permisssion [y/n]:'
+    permission = gets.chomp
+    student = Student.new(1, age, name, parent_permission: permission)
+    @student.push(student)
+    puts "Person created successfully\n\n"
+  end
+
+  def create_teacher
+    print 'Age:'
+    age = gets.chomp
+    print 'Name:'
+    name = gets.chomp
+    print 'Specialization:'
+    specialz = gets.chomp
+    teacher = Teacher.new(age, specialz, name, parent_permission: true)
+    @teacher.push(teacher)
+    puts "Person created successfully\n\n"
   end
 end

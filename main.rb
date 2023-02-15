@@ -23,7 +23,7 @@ class Main
     when '2'
       app.list_people
     when '3'
-      app.create_teacher_student
+      app.create_person
     when '4'
       app.create_book
     when '5'
