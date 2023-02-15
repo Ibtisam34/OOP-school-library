@@ -59,7 +59,7 @@ class App
     puts "Book created successfully\n\n"
   end
 
-  def create_teacher_student
+  def create_person
     print 'Do you want to create a student (1) or a teacher (2)? [Input the number]: '
     num = gets.chomp
     case num
