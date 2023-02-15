@@ -1,12 +1,10 @@
 class Rental
-  attr_accesor :date, :book, :person
-
-  def initialize(date, book, person)
-    @date = date
-    @book = book
+  def initialize(person, book, date)
     @person = person
-
-    book.rentals << self
-    person.rentals << self
+    @book = book
+    @date = date
+    @person.rentals.push(self) unless person.rentals.include?(self)
+    @book.rentals.push(self) unless book.rentals.include?(self)
   end
+  attr_accessor :date, :book, :person
 end
