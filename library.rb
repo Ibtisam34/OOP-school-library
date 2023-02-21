@@ -1,4 +1,5 @@
 require 'json'
+
 # Load data from files or create new empty data if files are missing or empty
 books = if File.exist?('books.json') && !File.zero?('books.json')
           JSON.parse(File.read('books.json'), symbolize_names: true)
