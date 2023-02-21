@@ -14,7 +14,4 @@ rental1 = Rental.new(book1, person1, Date.today)
 rental2 = Rental.new(book2, person2, Date.today - 7)
 
 # Save rentals data to a file
-
-File.open('rentals.json', 'w') do |f|
-  f.write(JSON.dump([rental1, rental2]))
-end
+File.write('rentals.json', JSON.dump([rental1, rental2]))
