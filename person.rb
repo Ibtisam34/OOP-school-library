@@ -37,15 +37,3 @@ class Person < Nameable
   end
 end
 
-# # sample data for Person
-# person1 = Person.new(25, 'John', true)
-# person2 = Person.new(30, 'Jane', true)
-
-# person1.rentals << rental1
-# person2.rentals << rental2
-
-# # Save people data to a file
-# # File.write('people.json', JSON.dump([person1, person2]))
-# File.write('people.json', 'w') do |f|
-#   f.write(JSON.dump([person1, person2]))
-# end
