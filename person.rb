@@ -1,6 +1,8 @@
-require './nameable'
+require_relative 'rental'
+require_relative 'nameable' 
+
 class Person < Nameable
-  def initialize(age, _rentals, name = 'Unknown', parent_permission: true)
+  def initialize(age, name = 'Unknown', _rentals, parent_permission: true)
     super()
 
     @id = Random.rand(1..1000)
@@ -35,12 +37,15 @@ class Person < Nameable
   end
 end
 
-# sample data for Person
-person1 = Person.new(25, 'John', true)
-person2 = Person.new(30, 'Jane', true)
+# # sample data for Person
+# person1 = Person.new(25, 'John', true)
+# person2 = Person.new(30, 'Jane', true)
 
-person1.rentals << rental1
-person2.rentals << rental2
+# person1.rentals << rental1
+# person2.rentals << rental2
 
-# Save people data to a file
-File.write('people.json', JSON.dump([person1, person2]))
+# # Save people data to a file
+# # File.write('people.json', JSON.dump([person1, person2]))
+# File.write('people.json', 'w') do |f|
+#   f.write(JSON.dump([person1, person2]))
+# end
