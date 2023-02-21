@@ -1,4 +1,3 @@
-# require './data'
 require './app'
 
 class Main
