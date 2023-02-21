@@ -1,0 +1,16 @@
+[
+    {
+      "id": 123,
+      "name": "John",
+      "age": 25,
+      "parent_permission": true,
+      "rentals": []
+    },
+    {
+      "id": 456,
+      "name": "Jane",
+      "age": 30,
+      "parent_permission": true,
+      "rentals": []
+    }
+  ]
