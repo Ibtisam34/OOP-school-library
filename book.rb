@@ -22,5 +22,6 @@ book1.rentals << rental1
 book2.rentals << rental2
 
 # Save books data to a file
-File.open('book.json', 'w') do |f|
+File.write('book.json', 'w') do |f|
   f.write(JSON.dump([book1, book2]))
+end

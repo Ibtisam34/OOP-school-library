@@ -31,4 +31,4 @@ rentals.each do |rental|
   puts "Person: #{rental[:person][:name]}, Age: #{rental[:person][:age]}"
   puts "Rental Date: #{rental[:date]}"
   puts '---'
-  
+end
