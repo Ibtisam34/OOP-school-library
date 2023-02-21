@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class Classroom
   def initialize(label)
     @label = label
