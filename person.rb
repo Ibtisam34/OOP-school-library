@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 require './nameable'
 class Person < Nameable
   def initialize(age, name = 'Unknown', parent_permission: true)
+=======
+require_relative 'rental'
+require_relative 'nameable'
+
+class Person < Nameable
+  def initialize(age, _rentals, name = 'Unknown', parent_permission: true)
+>>>>>>> 69b61c04e54396ecb234cb44e6f01e6612877ec5
     super()
     @id = Random.rand(1..1000)
     @name = name
