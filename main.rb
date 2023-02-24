@@ -1,4 +1,3 @@
-require './book'
 require './app'
 
 class Main

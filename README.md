@@ -98,6 +98,11 @@ rubocop
 - Twitter: [@twitterhandle](https://twitter.com/Queenjin2)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/falis-abdikani/)
 
+👤 **Gulalai Ahmadi**
+
+- GitHub: [GitHub Profile](https://github.com/AhmadiGu)
+- LinkedIn: [LinkedIn Profile](https://ahmadigu.github.io/Desktop_Portfolio/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>

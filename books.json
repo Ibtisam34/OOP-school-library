@@ -1,0 +1,1071 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "rentals": [
+      {
+        "date": "2023-02-21",
+        "book": {
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-21",
+                    "book": {
+                      "title": "The Great Gatsby",
+                      "author": "F. Scott Fitzgerald",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 1,
+                      "name": "John",
+                      "age": 25,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 1,
+          "name": "John",
+          "age": 25,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "book": {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-14",
+        "book": {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-14",
+                    "book": {
+                      "title": "To Kill a Mockingbird",
+                      "author": "Harper Lee",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 2,
+                      "name": "Jane",
+                      "age": 30,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 2,
+          "name": "Jane",
+          "age": 30,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "book": {
+                "title": "To Kill a Mockingbird",
+                "author": "Harper Lee",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-21",
+        "book": {
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-21",
+                    "book": {
+                      "title": "The Great Gatsby",
+                      "author": "F. Scott Fitzgerald",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 1,
+                      "name": "John",
+                      "age": 25,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 1,
+          "name": "John",
+          "age": 25,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "book": {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-14",
+        "book": {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-14",
+                    "book": {
+                      "title": "To Kill a Mockingbird",
+                      "author": "Harper Lee",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 2,
+                      "name": "Jane",
+                      "age": 30,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 2,
+          "name": "Jane",
+          "age": 30,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "book": {
+                "title": "To Kill a Mockingbird",
+                "author": "Harper Lee",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-21",
+        "book": {
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-21",
+                    "book": {
+                      "title": "The Great Gatsby",
+                      "author": "F. Scott Fitzgerald",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 1,
+                      "name": "John",
+                      "age": 25,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 1,
+          "name": "John",
+          "age": 25,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "book": {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-14",
+        "book": {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-14",
+                    "book": {
+                      "title": "To Kill a Mockingbird",
+                      "author": "Harper Lee",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 2,
+                      "name": "Jane",
+                      "age": 30,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 2,
+          "name": "Jane",
+          "age": 30,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "book": {
+                "title": "To Kill a Mockingbird",
+                "author": "Harper Lee",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-21",
+        "book": {
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-21",
+                    "book": {
+                      "title": "The Great Gatsby",
+                      "author": "F. Scott Fitzgerald",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 1,
+                      "name": "John",
+                      "age": 25,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 1,
+          "name": "John",
+          "age": 25,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "book": {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-14",
+        "book": {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-14",
+                    "book": {
+                      "title": "To Kill a Mockingbird",
+                      "author": "Harper Lee",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 2,
+                      "name": "Jane",
+                      "age": 30,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 2,
+          "name": "Jane",
+          "age": 30,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "book": {
+                "title": "To Kill a Mockingbird",
+                "author": "Harper Lee",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-21",
+        "book": {
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-21",
+                    "book": {
+                      "title": "The Great Gatsby",
+                      "author": "F. Scott Fitzgerald",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 1,
+                      "name": "John",
+                      "age": 25,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 1,
+          "name": "John",
+          "age": 25,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "book": {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-14",
+        "book": {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-14",
+                    "book": {
+                      "title": "To Kill a Mockingbird",
+                      "author": "Harper Lee",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 2,
+                      "name": "Jane",
+                      "age": 30,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 2,
+          "name": "Jane",
+          "age": 30,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "book": {
+                "title": "To Kill a Mockingbird",
+                "author": "Harper Lee",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-21",
+        "book": {
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-21",
+                    "book": {
+                      "title": "The Great Gatsby",
+                      "author": "F. Scott Fitzgerald",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 1,
+                      "name": "John",
+                      "age": 25,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 1,
+          "name": "John",
+          "age": 25,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "book": {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-14",
+        "book": {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-14",
+                    "book": {
+                      "title": "To Kill a Mockingbird",
+                      "author": "Harper Lee",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 2,
+                      "name": "Jane",
+                      "age": 30,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 2,
+          "name": "Jane",
+          "age": 30,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "book": {
+                "title": "To Kill a Mockingbird",
+                "author": "Harper Lee",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-21",
+        "book": {
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-21",
+                    "book": {
+                      "title": "The Great Gatsby",
+                      "author": "F. Scott Fitzgerald",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 1,
+                      "name": "John",
+                      "age": 25,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 1,
+          "name": "John",
+          "age": 25,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "book": {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-14",
+        "book": {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-14",
+                    "book": {
+                      "title": "To Kill a Mockingbird",
+                      "author": "Harper Lee",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 2,
+                      "name": "Jane",
+                      "age": 30,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 2,
+          "name": "Jane",
+          "age": 30,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "book": {
+                "title": "To Kill a Mockingbird",
+                "author": "Harper Lee",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-21",
+        "book": {
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-21",
+                    "book": {
+                      "title": "The Great Gatsby",
+                      "author": "F. Scott Fitzgerald",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 1,
+                      "name": "John",
+                      "age": 25,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 1,
+          "name": "John",
+          "age": 25,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-21",
+              "book": {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 1,
+                "name": "John",
+                "age": 25,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-02-14",
+        "book": {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+                  {
+                    "date": "2023-02-14",
+                    "book": {
+                      "title": "To Kill a Mockingbird",
+                      "author": "Harper Lee",
+                      "rentals": [
+
+                      ]
+                    },
+                    "person": {
+                      "id": 2,
+                      "name": "Jane",
+                      "age": 30,
+                      "parent_permission": true,
+                      "rentals": [
+
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "person": {
+          "id": 2,
+          "name": "Jane",
+          "age": 30,
+          "parent_permission": true,
+          "rentals": [
+            {
+              "date": "2023-02-14",
+              "book": {
+                "title": "To Kill a Mockingbird",
+                "author": "Harper Lee",
+                "rentals": [
+
+                ]
+              },
+              "person": {
+                "id": 2,
+                "name": "Jane",
+                "age": 30,
+                "parent_permission": true,
+                "rentals": [
+
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "rentals": [
+
+    ]
+  }
+]
